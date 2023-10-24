@@ -1,10 +1,10 @@
 {
-  "name": "StickyNotes",
+  "name": "StickyNotesTransparent",
   "version": "1.2.6",
   "manifest_version": 2,
   "applications": {
     "gecko": {
-      "id": "sticky@filenamezero.dip.jp"
+      "id": "philopatrick@outlook.com"
     }
   },
   "permissions": ["contextMenus",

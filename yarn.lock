@@ -4599,7 +4599,7 @@ hawk@~6.0.2:
     hoek "4.x.x"
     sntp "2.x.x"
 
-history@^4.3.0, history@^4.7.2:
+history@^4.7.2:
   version "4.7.2"
   resolved "https://registry.yarnpkg.com/history/-/history-4.7.2.tgz#22b5c7f31633c5b8021c7f4a8a954ac139ee8d5b"
   dependencies:
@@ -7876,12 +7876,13 @@ reduce-component@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/reduce-component/-/reduce-component-1.0.1.tgz#e0c93542c574521bea13df0f9488ed82ab77c5da"
 
-redux-saga-router@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/redux-saga-router/-/redux-saga-router-2.1.1.tgz#f4dc755ce7bc715c763164c98afa86b2e356e2e7"
+redux-saga-router@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/redux-saga-router/-/redux-saga-router-2.2.0.tgz#df41ad56f8f5ac151beff1683a5723572e6248f5"
+  integrity sha512-xXlQCV08DsLxlzZeapP0J2HBuksjxS1XwaJqwQQ4wTXYvM/ultnEdlZLPBNYDaIO5etEu9fRfIsV1PaOlMnzig==
   dependencies:
     fsm-iterator "^1.0.0"
-    history "^4.3.0"
+    history "^4.7.2"
     ruta3 "^2.0.1"
 
 redux-saga@^0.16.0:

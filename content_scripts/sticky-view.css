@@ -2,12 +2,15 @@
     all           : unset;
     position      : absolute;
     display       : block;
-    opacity       : 0.85;
-    border-radius : 2px;
+    opacity       : 1;
+    /* border-radius : 2px; */
     z-index       : 10000;
-    box-shadow    : 2px 2px 8px 2px rgba(128,128,128,0.75);
+    /* box-shadow    : 2px 2px 8px 2px rgba(128,128,128,0.75); */
     cursor        : pointer;
-    font-family   : Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight:900;
+    font-size: x-large;
+    font-family   : cursive, 'Courier New', Courier, monospace, Arial, Helvetica, sans-serif;
 }
 
 .stickynotes-sticky-minimized {
@@ -29,7 +32,7 @@
 .stickynotes-toolbar {
     all           : unset;
     position      : relative;
-    display       : block;
+    display       : none;
     width         : 100%;
     height        : 26px;
     margin        : 0px;
@@ -82,10 +85,10 @@
     border           : none;
     margin           : 0px;
     overflow         : auto;
-    font-size        : 13px;
-    font-weight      : normal;
-    line-height      : 14px;
-    font-family      : trebuchet ms;
+    font-size        : large;
+    font-weight      : bold;
+    line-height      : normal;
+    font-family      : cursive, trebuchet ms;
     color            : inherit;
     box-sizing       : border-box;
     width            : 100%;

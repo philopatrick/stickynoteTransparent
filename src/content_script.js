@@ -141,7 +141,7 @@ function createSticky() {
       url:      window.location.href,
       title:    window.document.title,
       content:  '',
-      color:    'yellow',
+      color:    '',
       tags:     [],
       tagNames: [],
       state:    StickyView.State.Normal,

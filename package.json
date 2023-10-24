@@ -72,7 +72,7 @@
     "react-treeview": "^0.4.7",
     "redux": "^3.7.2",
     "redux-saga": "^0.16.0",
-    "redux-saga-router": "^2.1.1",
+    "redux-saga-router": "^2.2.0",
     "regenerator-runtime": "0.10.0",
     "regenerator-transform": "^0.11.0",
     "stylelint": "^8.3.1",
